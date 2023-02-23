@@ -1,0 +1,2 @@
+# recursiton_git_traning
+recursionのgit動作の置き場
